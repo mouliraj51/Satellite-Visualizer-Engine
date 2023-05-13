@@ -1,0 +1,20 @@
+{
+  "place_id": 198178928,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "powered_by": "Map Maker: https://maps.co",
+  "osm_type": "way",
+  "osm_id": 417318851,
+  "lat": "37.55802113491523",
+  "lon": "-122.2720064400896",
+  "display_name": "East Hillsdale Boulevard, Foster City, San Mateo County, California, 94405, United States",
+  "address": {
+    "road": "East Hillsdale Boulevard",
+    "town": "Foster City",
+    "county": "San Mateo County",
+    "state": "California",
+    "postcode": "94405",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "boundingbox": ["37.557238", "37.5585743", "-122.2731024", "-122.2715041"]
+}
