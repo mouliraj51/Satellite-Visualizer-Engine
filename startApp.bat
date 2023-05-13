@@ -1,1 +1,1 @@
-start python 2d.py & start python playground.py 
+start python visualizer.py & start python playground.py 
