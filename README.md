@@ -18,4 +18,4 @@ How to control:
 - Press UP/DOWN to change satellite category.
 - Press LEFT/RIGHT to adjust orbit interval for line drawing.
 
-You can run run ./startApp.bat to see the Running Appe
+You can run run ./startApp.bat to see the Running App
